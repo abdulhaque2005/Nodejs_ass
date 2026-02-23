@@ -101,6 +101,10 @@ http://localhost:2000/students/branch/CSE
 ## Render (urls)
 https://nodejs-ass.onrender.com/students
   -----
+
+## Postman (urls)
+[https://nodejs-ass.onrender.com/students](https://documenter.getpostman.com/view/50840515/2sBXcGCeJT)
+  -----
 ## How to Run Locally
 
 1. Clone the repository:
