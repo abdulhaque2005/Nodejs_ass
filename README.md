@@ -103,7 +103,7 @@ http://localhost:2000/students/branch/CSE
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/student-cgpa-api.git
+git clone https://github.com/abdulhaque2005/Nodejs_ass.git
 
 2. Navigate to project folder:
 
